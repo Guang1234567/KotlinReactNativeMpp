@@ -1,3 +1,14 @@
+ 一个通过 `kotlin-js` 来将 kotlin 代码转化成 React-Native js 代码,  以此来编写 React-Native 程序(跟用 TypeScript 写React-Native 程序有异曲同工之妙, 因为两者都有静态代码检测)
+ 
+
+Fork from https://github.com/Foso/KotlinReactNativeMpp
+
+另外, 将此项目集成进 **Intellij Idea**, 故把 **.idea** 目录从 `. gitignore` 中忽略.
+
+[ PS: 如何集成到 Intellij Idea 的一些基础知识](https://www.kotlincn.net/docs/tutorials/javascript/getting-started-idea/getting-started-with-intellij-idea.html)
+
+----
+
 <h1 align="center">Kotlin React-Native Mpp </h1>
 
 [![jCenter](https://img.shields.io/badge/Apache-2.0-green.svg
